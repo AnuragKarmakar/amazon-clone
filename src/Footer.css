@@ -1,0 +1,37 @@
+.footer {
+  background: #131921;
+  
+  flex-direction: column;
+  color: white;
+  margin-top: auto;
+  max-height: 400px;
+}
+.footer__row1{
+  justify-content: space-evenly;
+  display: flex;
+}
+.footer__row2{  
+  text-align: center;
+}
+
+.footer__info {
+  padding: 10px;
+  padding-bottom: 50px;
+  font-size: small;
+}
+
+.footer__info > h2 {
+  font-size: large;
+  font-family: "Segoe UI";
+  font-weight: bold;
+}
+
+.footer__info > h4 {
+  font-weight: 100;
+  font-family: "Segoe UI";
+  font-size: medium;
+}
+.footer__info > p {
+  padding: 10px;
+  font-size: small;
+}

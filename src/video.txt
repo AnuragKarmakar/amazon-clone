@@ -1,0 +1,6 @@
+paused
+5:54:11
+
+npm install -g firebase-tools && npm install firebase && npm install firebase login
+npm i @stripe/react-stripe-js
+npm i @stripe/stripe-js
